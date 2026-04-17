@@ -92,7 +92,7 @@ custom_css = """
     text-align: center;
     font-family: monospace;
     font-size: 0.95em;
-    color: #333;
+    color: #000000 !important;
     margin: 10px 0;
 }
 """
