@@ -10,6 +10,8 @@ pinned: false
 
 # Voice-Powered Q&A Agent
 
+[![Open in Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo%20in%20Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/Keshav97/Voice-Powered-Q-A-Agent)
+
 Hey! This is a project I built for my Gen AI Workshop assignment. It's a Python application that lets you talk to your PDF documents using your voice.
 
 Basically, you upload a PDF, ask a question using your microphone, and the app searches through the document using Retrieval-Augmented Generation (RAG) to find the answer. It then reads the answer out loud back to you.
