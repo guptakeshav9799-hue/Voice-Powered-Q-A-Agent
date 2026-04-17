@@ -1,3 +1,13 @@
+---
+title: Voice Powered QA Agent
+emoji: 🎤
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
 # Voice-Powered Q&A Agent
 
 Hey! This is a project I built for my Gen AI Workshop assignment. It's a Python application that lets you talk to your PDF documents using your voice.
