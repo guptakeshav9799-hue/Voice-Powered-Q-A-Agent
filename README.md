@@ -1,13 +1,3 @@
----
-title: Voice Powered QA Agent
-emoji: 🎤
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-app_file: app.py
-pinned: false
----
-
 # Voice-Powered Q&A Agent
 
 [![Open in Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo%20in%20Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/Keshav97/Voice-Powered-Q-A-Agent)
@@ -55,4 +45,4 @@ The terminal will give you a local URL (usually `http://localhost:7861`). Open t
 5. **Voice Output:** Finally, Llama 3.1 figures out the answer, and `gTTS` turns that final string of text back into an `.mp3` audio file that plays automatically.
 
 ---
-*Created by Keshav Gupta for the Gen AI Workshop.*
+*Created by Keshav Gupta.*
